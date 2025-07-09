@@ -1,0 +1,10 @@
+.animate_animated {
+    animation-duration: 10s;
+}
+
+
+
+.animate__animated.animate__rubberBand {
+    --animate-duration: 5s;
+    
+}
